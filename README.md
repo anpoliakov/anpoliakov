@@ -6,11 +6,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=600&height=30&lines=Java+Software+Engineer+;With+thirst+for+continuous+development" alt="Typing SVG" /></a>
 </h3>  
 
-<div align="right">
-
-![Totals Hits](https://komarev.com/ghpvc/?username=anpoliakov&style=flat&color=F85D7F&label=Profile+views)
-
-</div>
 
 ### ✍ Connect with me:
 [![telegram badge](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/anpoliakov)
