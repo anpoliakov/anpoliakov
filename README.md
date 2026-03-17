@@ -6,8 +6,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=600&height=30&lines=Java+Software+Engineer+;With+thirst+for+continuous+development" alt="Typing SVG" /></a>
 </h3>  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=E93727&width=435&lines=Linux+%E2%80%A2+Networks+%E2%80%A2+Automation.+I+turn+coffee+into+bash+scripts+and+problems+into+solutions.;Living+in+the+CLI)](https://git.io/typing-svg)
-
+<h3 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&pause=1000&color=F85D7F&width=435&lines=Linux+%E2%80%A2+Networks+%E2%80%A2+Automation;Living+in+the+CLI" alt="Typing SVG" /></a>
+</h3>  
 
 ### ✍ Connect with me:
 [![telegram badge](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/anpoliakov)
