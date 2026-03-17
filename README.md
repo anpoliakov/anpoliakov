@@ -3,10 +3,6 @@
 </h1>
 
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=600&height=30&lines=Java+Software+Engineer+;With+thirst+for+continuous+development" alt="Typing SVG" /></a>
-</h3>  
-
-<h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F85D7F&center=true&vCenter=true&width=435&lines=Linux+%E2%80%A2+Networks+%E2%80%A2+Automation;Living+in+the+CLI" alt="Typing SVG" /></a>
 </h3>  
 
@@ -49,15 +45,3 @@
   </a>
   <img width="52.5%" src="https://github-readme-stats.vercel.app/api?username=anpoliakov&theme=tokyonight&show_icons=true" alt="anpoliakov" />
 </details>
-
-<div align="center"> <hr></hr>
-
-  **Code Cycle**<br>
-
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
-</div>
