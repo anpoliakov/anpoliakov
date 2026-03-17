@@ -7,7 +7,7 @@
 </h3>  
 
 <h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&pause=1000&color=F85D7F&width=435&lines=Linux+%E2%80%A2+Networks+%E2%80%A2+Automation;Living+in+the+CLI" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F85D7F&center=true&vCenter=true&width=435&lines=Linux+%E2%80%A2+Networks+%E2%80%A2+Automation;Living+in+the+CLI" alt="Typing SVG" /></a>
 </h3>  
 
 ### ✍ Connect with me:
