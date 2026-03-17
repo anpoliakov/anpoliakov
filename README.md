@@ -20,16 +20,6 @@
 
 <hr>
 
-### 🔧 Technologies & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)&nbsp;
-![Hibernate](https://img.shields.io/badge/HIBERNATE-121011.svg?&style=flat&logo=red-hat&logoColor=white)&nbsp;
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
-![JUnit](https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white)&nbsp;
-![Maven](https://img.shields.io/badge/MAVEN-C71A36.svg?&style=flat&logo=apache-maven)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white)&nbsp;
-![IntelliJ](https://img.shields.io/badge/INTELLIJ-000000.svg?&style=flat&logo=intellij-idea)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)&nbsp;
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
